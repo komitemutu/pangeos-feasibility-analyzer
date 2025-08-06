@@ -1,0 +1,24 @@
+{
+  "name": "pangeos-feasibility-analyzer",
+  "version": "1.0.0",
+  "description": "AI-powered feasibility analysis for Pangeos yacht project",
+  "main": "app.py",
+  "scripts": {
+    "start": "streamlit run app.py",
+    "dev": "streamlit run app.py --server.runOnSave true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/pangeos-feasibility-analyzer"
+  },
+  "keywords": [
+    "ai",
+    "machine-learning",
+    "yacht",
+    "feasibility",
+    "analysis",
+    "streamlit"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
